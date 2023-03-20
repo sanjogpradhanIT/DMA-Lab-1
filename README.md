@@ -1,1 +1,1 @@
-![](dice.gif)
+![](two-dice.gif)
